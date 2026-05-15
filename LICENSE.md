@@ -1,4 +1,4 @@
-# 
+# secure Polymarket Addon | backtesting + volume-analysis is the best Polymarket addon, featuring backtesting and volume-analysis. Smart, fast, and optimized for trading on
 
 
 
